@@ -35,6 +35,7 @@ new_hash = return_all_keys(new_hash)
     end
     keys_array
 end
+
 def alphabetize(arr)
     alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
    a_to_z_hash = alpha_hash(alphabet) #turns alphabet into hash with values as numbers
